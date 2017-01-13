@@ -1,6 +1,6 @@
 # CineXd-jsp
 
-#Sistema sem uso de frameworks, para gerenciamento de vendas de ingressos de cinema, com interface gráfica que possui selecionador de poltronas.
+Sistema sem uso de frameworks, para gerenciamento de vendas de ingressos de cinema, com interface gráfica que possui selecionador de poltronas.
 
 ##Especificações:
 
