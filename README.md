@@ -2,7 +2,7 @@
 
 Sistema sem uso de frameworks, para gerenciamento de vendas de ingressos de cinema, com interface gráfica que possui selecionador de poltronas (Projeto Interdisciplinar Faculdade UPIS).
 
-#Especificações:
+##Especificações:
 
 * Arquitetura: MVC
 * Java: 1.7
